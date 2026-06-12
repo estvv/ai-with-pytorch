@@ -25,3 +25,15 @@ Reconnaissance de chiffres manuscrits (MNIST) avec un réseau de neurones convol
 ![training](02-cnn/utils/training.png)
 
 ![example](02-cnn/utils/example.png)
+
+---
+
+## 03 — RNN
+
+Génération de texte caractère par caractère, entraîné sur Les Misérables de Victor Hugo.
+
+![diagram](03-rnn/utils/diagram.png)
+
+![training](03-rnn/utils/training.png)
+
+![example](03-rnn/utils/example.png)
