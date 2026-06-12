@@ -1,0 +1,9 @@
+.venv
+__pycache__/
+.claude
+
+02-cnn/data/*
+!02-cnn/data/.gitkeep
+
+02-cnn/models/*
+!02-cnn/models/.gitkeep
