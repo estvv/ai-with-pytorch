@@ -7,3 +7,9 @@ __pycache__/
 
 02-cnn/models/*
 !02-cnn/models/.gitkeep
+
+03-rnn/data/*
+!03-rnn/data/.gitkeep
+
+03-rnn/models/*
+!03-rnn/models/.gitkeep
